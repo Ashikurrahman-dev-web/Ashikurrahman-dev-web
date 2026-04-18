@@ -5,8 +5,8 @@
 🚀 Love building clean UI with React & Tailwind  
 
 ## 🔧 Skills
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
+- HTML, Tailwind CSS, CSS, JavaScript
+- React, Next.js
 - Firebase
 
 ## 📫 Contact
