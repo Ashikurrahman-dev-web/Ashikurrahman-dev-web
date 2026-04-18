@@ -2,7 +2,7 @@
 
 💻 Frontend Developer  
 🌱 Currently learning MERN Stack  
-🚀 Love building clean UI with React & Tailwind  
+🚀 Love building clean UI with React, Next.js & Tailwind  
 
 ## 🔧 Skills
 - HTML, Tailwind CSS, CSS, JavaScript
