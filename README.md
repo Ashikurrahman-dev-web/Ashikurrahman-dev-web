@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ashikur Rahman
 
-💻 Frontend Developer  
-🌱 Currently learning MERN Stack  
-🚀 Love building clean UI with React, Next.js & Tailwind  
+💻 Full Stack Developer  
+🌱 MERN Stack Stack Developer 
+🚀 Love building clean Website with React, Next.js, Node.js, Exprees.js & Tailwind  
 
 ## 🔧 Skills
 - HTML, Tailwind CSS, JavaScript
