@@ -5,9 +5,9 @@
 🚀 Love building clean UI with React, Next.js & Tailwind  
 
 ## 🔧 Skills
-- HTML, Tailwind CSS, CSS, JavaScript
-- React, Next.js
-- Firebase
+- HTML, Tailwind CSS, JavaScript
+- React, Next.js, Node.js, Exprees.js
+- MongoDB
 
 ## 📫 Contact
 - Gmail: ashikurrahman88722@gmail.com
