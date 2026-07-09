@@ -5,7 +5,7 @@
 🚀 Love building clean Website with React, Next.js, Node.js, Exprees.js & Tailwind  
 
 ## 🔧 Skills
-- HTML, Tailwind CSS, JavaScript
+- Tailwind CSS, JavaScript, Typescript 
 - React, Next.js, Node.js, Exprees.js
 - MongoDB
 
