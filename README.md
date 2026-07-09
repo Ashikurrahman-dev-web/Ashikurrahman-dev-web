@@ -1,4 +1,5 @@
-![Uploading Gemini_Generated_Image_mzcfsemzcfsemzcf.png…]()
+<img width="1376" height="768" alt="Gemini_Generated_Image_mzcfsemzcfsemzcf" src="https://github.com/user-attachments/assets/832536cf-518d-41d3-acb5-c3eed85bc97a" />
+
 
 
 # Hi 👋, I'm Ashikur Rahman
