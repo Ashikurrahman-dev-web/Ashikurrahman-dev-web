@@ -56,4 +56,14 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashikurrahman-dev-web&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Ashikurrahman-dev-web&theme=github-dark&hide_border=true" height="180" />
 </p>
+
+### Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashikur-rahman-6559a93b3/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ashikur-rahman-dev.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
