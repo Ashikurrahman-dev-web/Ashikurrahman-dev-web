@@ -44,11 +44,11 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 
 | Category | Technologies |
 |---|---|
-| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn/UI, Ant Design |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, PostgreSQL, SQLite |
-| **AI / GenAI** | OpenAI API, LangChain, LangGraph |
-| **Tools** | Git, GitHub, Docker, Postman, Vercel |
+| **Database** | MongoDB |
+| **AI / GenAI** | OpenAI API |
+| **Tools** | Git, GitHub, Vercel |
 
 ---
 
