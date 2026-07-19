@@ -33,12 +33,6 @@ const ashikurRahman = {
 
 I'm a Full-Stack Developer specializing in the MERN stack and modern frontend technologies. I focus on building clean, responsive, and AI-powered web applications — from database design through to production deployment. I enjoy solving real-world problems with code.
 
-### Currently
-
-- 🔭 Exploring **Next.js 15** and advanced App Router patterns
-- 🌍 Building an **AI-powered tourism platform** with RAG-based recommendations
-- 🧠 Studying **AI Agent architecture** with LangGraph
-- 📚 Strengthening my knowledge of **System Design** and **Cloud Deployment**
 
 ---
 
