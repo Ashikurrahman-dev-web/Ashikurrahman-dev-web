@@ -22,7 +22,7 @@ const ashikurRahman = {
   location: "Badda, Dhaka, Bangladesh",
   role: "Full-Stack Developer",
   stack: ["MERN", "Next.js", "TypeScript", "LangChain", "LangGraph"],
-  currentFocus: "AI Agents & RAG Applications",
+  currentFocus: "Scalable Web App",
   reachMeAt: "ashikurrahman88722@gmail.com",
 };
 ```
@@ -31,7 +31,7 @@ const ashikurRahman = {
 
 ### About Me
 
-I'm a Full-Stack Developer specializing in the MERN stack and modern frontend technologies. I focus on building clean, responsive, and AI-powered web applications — from database design through to production deployment. I enjoy solving real-world problems with code and am steadily expanding into AI agents and RAG-based systems.
+I'm a Full-Stack Developer specializing in the MERN stack and modern frontend technologies. I focus on building clean, responsive, and AI-powered web applications — from database design through to production deployment. I enjoy solving real-world problems with code.
 
 ### Currently
 
