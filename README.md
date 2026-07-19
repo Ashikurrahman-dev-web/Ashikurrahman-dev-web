@@ -41,3 +41,20 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,vercel" />
 </p>
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn/UI, Ant Design |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB, PostgreSQL, SQLite |
+| **AI / GenAI** | OpenAI API, LangChain, LangGraph |
+| **Tools** | Git, GitHub, Docker, Postman, Vercel |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashikurrahman-dev-web&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Ashikurrahman-dev-web&theme=github-dark&hide_border=true" height="180" />
+</p>
