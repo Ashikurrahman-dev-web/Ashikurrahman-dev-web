@@ -21,7 +21,7 @@
 const ashikurRahman = {
   location: "Badda, Dhaka, Bangladesh",
   role: "Full-Stack Developer",
-  stack: ["MERN", "Next.js", "TypeScript", "LangChain", "LangGraph"],
+  stack: "MERN",
   currentFocus: "Scalable Web App",
   reachMeAt: "ashikurrahman88722@gmail.com",
 };
