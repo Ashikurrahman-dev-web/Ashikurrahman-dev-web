@@ -66,4 +66,4 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
   <a href="https://ashikur-rahman-dev.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,9,12,34&height=100&section=footer" width="100%" />
