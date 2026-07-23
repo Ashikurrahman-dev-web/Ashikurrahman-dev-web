@@ -66,6 +66,9 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 ### Let's Connect
 
 <p align="center">
+  <a href="mailto:"ashikurrahman88722@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/ashikur-rahman-6559a93b3/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ashikur-rahman-dev.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
