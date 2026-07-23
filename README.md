@@ -57,6 +57,10 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashikurrahman-dev-web&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="180" />
   <img src="https://streak-stats.demolab.com/?user=Ashikurrahman-dev-web&theme=github-dark&hide_border=true" height="180" />
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikurrahman-dev-web&theme=tokyo-night&hide_border=true" />
 </p>
 
 ### Let's Connect
