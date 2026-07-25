@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ashikur-rahman-6559a93b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://ashikur-rahman-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="mailto:ashikurrahman88722@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1yn_Gu2tmONdt0vel13mZ13KO_qswl6XT/view?usp=sharing" /></a>
+  <a href="https://drive.google.com/file/d/1yn_Gu2tmONdt0vel13mZ13KO_qswl6XT/view?usp=sharing"><img src= "https://img.shields.io/badge/Resume-D198765?style=flat-square&logo=resume&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Building modern, scalable, AI-powered web applications.</i></p>
