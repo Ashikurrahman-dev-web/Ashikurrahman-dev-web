@@ -39,14 +39,14 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,vercel,postgresql" />
 </p>
 
 | Category | Technologies |
 |---|---|
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
+| **Database** | MongoDB | PostgreSql
 | **AI / GenAI** | OpenAI API |
 | **Tools** | Git, GitHub, Vercel |
 
