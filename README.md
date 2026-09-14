@@ -46,7 +46,7 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 |---|---|
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB | PostgreSql
+| **Database** | MongoDB, PostgreSql
 | **AI / GenAI** | OpenAI API |
 | **Tools** | Git, GitHub, Vercel |
 
