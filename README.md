@@ -39,7 +39,7 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern full stack 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,vercel,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,vercel,postgresql,socket.io" />
 </p>
 
 | Category | Technologies |
